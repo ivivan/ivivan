@@ -1,25 +1,17 @@
 ### Hi there 👋
 
-#### I'm a Data Scientist in Brisbane, Australia.
-
-##### NOW
-
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
-
-##### BIO
-
-- 🏢 I'm currently working at **Machine Learning in Fraud Detection**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 🏢 I'm a **data scientist** in **Brisbane, AU** 
+- 👹 **Machine Learning in Fraud Detection**
+- ⚙️ 
+- 🌍 
+- 💅 
+- 🌱 
+- 💬 
 - 📫 Reach me: [twitter.com/ivivan](https://twitter.com/ivivan)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
-- 👹
+- ⚡️ Fun fact: 
+- 
 
 ##### PUBLICATION
 
-- 
+- 📕 [A Dual-head Attention Model for Time Series Data Imputation](https://www.sciencedirect.com/science/article/pii/S016816992100394X), Computers and Electronics in Agriculture, Volume 189, Page 106377, October 2021.
+- 📕 [Predicting the Trend of Dissolved Oxygen based on kPCA-RNN Model](http://mdpi.com/2073-4441/12/2/585), MDPI Water, Volume 12, Issue 2, Page 585, February 2020.
