@@ -7,7 +7,7 @@
 - 💅 
 - 🌱 
 - 💬 
-- 📫 Reach me: [twitter.com/ivivan](https://twitter.com/ivivan)
+- 📫 Reach me: [@ivivan](https://twitter.com/ivivan)
 - ⚡️ Fun fact: 
 - 
 
