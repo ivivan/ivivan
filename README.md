@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 😄 I'm a **data scientist** in **Australia** 
+- 😄 I'm a **Data Scientist** in **Australia** 
 - 💼 **AI in Fraud Detection**
