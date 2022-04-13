@@ -1,6 +1,5 @@
 ### Hi I'm Ivan 👋
 
----
 
 [![Linkedin Badge](https://img.shields.io/badge/-ivan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivivan/)](https://www.linkedin.com/in/ivivan/)
 [![Website Badge](https://img.shields.io/badge/-ivivan.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.ivivan.com)](https://www.ivivan.com)
