@@ -8,6 +8,6 @@
 <!-- [![Instagram Badge](https://img.shields.io/badge/-@ivivan-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ivivan/)](https://instagram.com/ivivan)
  -->
 
-- 😄 I'm a data scientist in AU 🇦🇺
-- 💼 Current work on AI based fraud detection
-- 🐱 I have a cat
+- 😄 I'm a data scientist in Australia 🇦🇺
+- 💼 Current work on AI-based fraud detection
+- 🐱 When I'm not working, I love spending time with my cat
