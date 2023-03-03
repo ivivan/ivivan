@@ -23,7 +23,6 @@
 🕵️‍♂️ Fraud detection expert<br>
 📊 Data wrangler<br>
 🐍 Python charmer<br>
-🧮 Excel wizard<br>
 🎓 Lifelong learner<br>
 🤖 AI enthusiast<br>
 🎭 Can fake confidence like a pro<br>
