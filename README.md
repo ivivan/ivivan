@@ -10,20 +10,20 @@
 
 #### About Me
 
-👨‍🔬 Data scientist with a PhD in Machine Learning
-🇨🇳 Chinese roots, Australian heart
-🐈 Proud owner of a feline overlord
-🌃 Sleeps only after midnight
-🦸‍♂️ Ex-researcher turned fraud detective
-🤬 Hates interviews more than bad data
+- 👨‍🔬 Data scientist with a PhD in Machine Learning
+- 🇨🇳 Chinese roots, Australian heart
+- 🐈 Proud owner of a feline overlord
+- 🌃 Sleeps only after midnight
+- 🦸‍ Ex-researcher turned fraud detective
+- 🤬 Hates interviews more than bad data
 
 #### Skills
 
-💻 Machine Learning ninja
-🕵️‍♂️ Fraud detection expert
-📊 Data wrangler
-🐍 Python charmer
-🧮 Excel wizard
-🎓 Lifelong learner
-🤖 AI enthusiast
-🎭 Can fake confidence like a pro
+- 💻 Machine Learning ninja
+- 🕵️‍♂️ Fraud detection expert
+- 📊 Data wrangler
+- 🐍 Python charmer
+- 🧮 Excel wizard
+- 🎓 Lifelong learner
+- 🤖 AI enthusiast
+- 🎭 Can fake confidence like a pro
