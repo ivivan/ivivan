@@ -8,6 +8,22 @@
 <!-- [![Instagram Badge](https://img.shields.io/badge/-@ivivan-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ivivan/)](https://instagram.com/ivivan)
  -->
 
-- 😄 I'm a data scientist in Australia 🇦🇺
-- 💼 Current work on AI-based fraud detection
-- 🐱 When I'm not working, I love spending time with my cat
+#### About Me
+
+👨‍🔬 Data scientist with a PhD in Machine Learning
+🇨🇳 Chinese roots, Australian heart
+🐈 Proud owner of a feline overlord
+🌃 Sleeps only after midnight
+🦸‍♂️ Ex-researcher turned fraud detective
+🤬 Hates interviews more than bad data
+
+#### Skills
+
+💻 Machine Learning ninja
+🕵️‍♂️ Fraud detection expert
+📊 Data wrangler
+🐍 Python charmer
+🧮 Excel wizard
+🎓 Lifelong learner
+🤖 AI enthusiast
+🎭 Can fake confidence like a pro
