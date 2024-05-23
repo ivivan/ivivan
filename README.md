@@ -10,8 +10,7 @@
 
 #### About Me
 
-👨‍🔬 Data scientist with a PhD in Machine Learning<br>
-🇨🇳 Chinese roots, Australian heart<br>
+👨‍🔬 PhD in QUT>
 🐈 Proud owner of a feline overlord<br>
 🌃 Sleeps only after midnight<br>
 🦸‍ Ex-researcher turned fraud detective<br>
