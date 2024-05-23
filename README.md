@@ -10,7 +10,7 @@
 
 #### About Me
 
-👨‍🔬 PhD in QUT>
+👨‍🔬 PhD in QUT<br>
 🐈 Proud owner of a feline overlord<br>
 🌃 Sleeps only after midnight<br>
 🦸‍ Ex-researcher turned fraud detective<br>
