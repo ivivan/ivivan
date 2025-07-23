@@ -13,8 +13,7 @@
 👨‍🔬 PhD @ QUT & Degree @ BUAA<br>
 🐈🐕 Cat overlord & a delightfully clueless dog<br>
 🌃 Sleeps only after midnight<br>
-🦸‍ Ex-researcher turned fraud detection<br>
-🦹‍ Navigates more than one world with a knack for switching hats<br>
+🦹‍ Juggling fraud detection and ML roles under one roof<br>
 🤬 Hates interviews more than bad data<br>
 💹 Deeply into crypto and share trading<br>
 
