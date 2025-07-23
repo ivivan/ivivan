@@ -10,16 +10,18 @@
 
 #### About Me
 
-👨‍🔬 PhD in QUT<br>
-🐈 Proud owner of a feline overlord<br>
+👨‍🔬🎓 PhD @ QUT & Degree @ BUAA<br>
+🐈🐕 Cat overlord & a delightfully clueless dog<br>
 🌃 Sleeps only after midnight<br>
-🦸‍ Ex-researcher turned fraud detective<br>
+🦸‍ Ex-researcher turned fraud detection<br>
+🦹‍ Navigates more than one world with a knack for switching hats<br>
 🤬 Hates interviews more than bad data<br>
+💹 Deeply into crypto and share trading<br>
 
 #### Skills
 
 💻 Machine Learning ninja<br>
-🕵️‍♂️ Fraud detection expert<br>
+🕵️‍♂️ Tireless seeker of patterns<br>
 📊 Data wrangler<br>
 🐍 Python charmer<br>
 🎓 Lifelong learner<br>
