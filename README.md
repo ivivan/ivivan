@@ -10,7 +10,7 @@
 
 #### About Me
 
-👨‍🔬🎓 PhD @ QUT & Degree @ BUAA<br>
+👨‍🔬 PhD @ QUT & Degree @ BUAA<br>
 🐈🐕 Cat overlord & a delightfully clueless dog<br>
 🌃 Sleeps only after midnight<br>
 🦸‍ Ex-researcher turned fraud detection<br>
