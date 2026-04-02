@@ -6,7 +6,7 @@
 
 </div>
 
-#### About Me
+#### ⚡ About Me
 
 👨‍🔬 PhD @ QUT & Degree @ BUAA<br>
 🐈🐕 Cat overlord & a delightfully clueless dog<br>
