@@ -1,9 +1,7 @@
 ### Hi I'm Ivan 👋
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00C2A8&center=true&vCenter=true&width=800&lines=ML+models+pay+the+bills+%E2%80%94+twice.;From+China%2C+now+in+Brisbane.;Fraud+patterns+by+day%2C+more+ML+after+hours.;Option+trading+towards+financial+freedom.;Always+one+model+tuning+run+away+from+greatness." alt="Typing intro" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00C2A8&center=true&vCenter=true&width=900&lines=%F0%9F%8E%A4+Fraud+on+the+beat+%E2%80%A2+ML+in+the+late+night.;%F0%9F%8C%8F+China+roots+%E2%80%A2+Brisbane+nights.;%F0%9F%93%88+Options+on+my+mind+%E2%80%A2+financial+freedom+in+sight.;%E2%9A%94%EF%B8%8F+Boss-fight+focus+%E2%80%A2+I+tune+models+all+night." alt="Typing intro" />
 </div>
 
 #### ⚡ About Me
