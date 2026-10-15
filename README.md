@@ -1,25 +1,51 @@
-### Hi I'm Ivan 👋
+### Hi, I'm Ivan 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00C2A8&center=true&vCenter=true&width=900&lines=%F0%9F%8E%A4+Fraud+on+the+beat+%E2%80%A2+ML+in+the+late+night.;%F0%9F%8C%8F+China+roots+%E2%80%A2+Brisbane+nights.;%F0%9F%93%88+Options+on+my+mind+%E2%80%A2+financial+freedom+in+sight.;%E2%9A%94%EF%B8%8F+Boss-fight+focus+%E2%80%A2+I+tune+models+all+night." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00C2A8&center=true&vCenter=true&width=900&lines=China+roots.+Brisbane+nights.;Hunting+fraud.+Building+ML+systems.;Building+CGTDesk.+Untangling+trading+records.;One+cat.+One+dog.+Too+many+side+quests." alt="Typing intro" />
 </div>
 
 #### ⚡ About Me
 
-👨‍🔬 PhD @ QUT & Degree @ BUAA<br>
-🐈🐕 Cat overlord & a delightfully clueless dog<br>
-🌃 Sleeps only after midnight<br>
-🦹‍ Juggling fraud detection and ML roles under one roof<br>
-🤬 Hates interviews more than bad data<br>
-💹 Deeply into crypto and share trading<br>
+👨‍🔬 PhD @ QUT · Degree @ BUAA<br>
+🛡️ Data scientist working on machine learning and fraud detection<br>
+🚀 Founder & Developer of [CGTDesk](https://www.cgtdesk.com) — currently in development<br>
+🐈🐕 Staff to one cat and one delightfully clueless dog<br>
+🌃 Usually debugging something after midnight<br>
+💹 Into financial markets, share trading, and options<br>
+🤬 Still prefers bad data to job interviews<br>
 
-#### 🧪 What I do
+#### 🚀 Building CGTDesk
+
+A web-based service that helps investors organise share-trading records,
+calculate capital gains and losses, and prepare for tax time.
+
+Currently in development, with a focus on:
+- Cleaning and standardising broker transaction records
+- Calculating annual capital gains and losses
+- Making calculations clear and traceable
+
+Less spreadsheet wrestling. More time for everything else.
+
+#### 🧪 What I Do
 
 ```python
 class Ivan:
     location = "Brisbane, Australia"
     origin = "China"
-    income_streams = ["ML models detecting bad behaviour", "ML models exploring new ideas"]
+
+    focus = [
+        "Fraud detection and risk analytics",
+        "Machine learning in production",
+        "Practical data tools",
+    ]
+
+    building = {
+        "name": "CGTDesk",
+        "role": "Founder & Developer",
+        "status": "In development",
+        "mission": "Turn messy trading records into clear calculations",
+    }
+
     pets = {"cat": 1, "dog": 1}
     side_quest = "Share options trading"
     long_term_goal = "Financial freedom"
@@ -27,14 +53,17 @@ class Ivan:
 
     def vibe(self):
         return (
-            "Ships ML into real systems, hunts fraud, runs experiments, "
-            "and treats capital allocation like another optimization problem."
+            "Ships ML into real systems, hunts fraud, "
+            "and builds tools to make complicated things simpler. "
+            "Occasionally remembers to sleep."
         )
 ```
-#### 📫 Find me
 
-[![Linkedin Badge](https://img.shields.io/badge/-ivan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivivan/)](https://www.linkedin.com/in/ivivan/)
-[![Website Badge](https://img.shields.io/badge/-ivivan.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.ivivan.com)](https://www.ivivan.com)
-[![GoogleScholar Badge](https://img.shields.io/badge/-ivivan-c14438?style=flat&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=EPj8lf8AAAAJ&hl=en)](https://scholar.google.com/citations?user=EPj8lf8AAAAJ&hl=en)
-[![Twitter Badge](https://img.shields.io/badge/-@ivivan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ivivan)](https://twitter.com/ivivan)
-[![Instagram Badge](https://img.shields.io/badge/-@ivivan-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ivivan/)](https://instagram.com/ivivan)
+#### 📫 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan-0A66C2?style=flat)](https://www.linkedin.com/in/ivivan/)
+[![Website](https://img.shields.io/badge/Website-ivivan.com-47CCCC?style=flat)](https://www.ivivan.com)
+[![CGTDesk](https://img.shields.io/badge/Building-CGTDesk-00C2A8?style=flat)](https://www.cgtdesk.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Ivan-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EPj8lf8AAAAJ&hl=en)
+[![Twitter](https://img.shields.io/badge/Twitter-@ivivan-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ivivan)
+[![Instagram](https://img.shields.io/badge/Instagram-@ivivan-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ivivan/)
