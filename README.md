@@ -42,7 +42,7 @@ class Ivan:
     building = {
         "name": "CGTDesk",
         "role": "Founder & Developer",
-        "status": "In development",
+        "status": "Online",
         "mission": "Turn messy trading records into clear calculations",
     }
 
