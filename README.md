@@ -62,7 +62,6 @@ class Ivan:
 #### 📫 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan-0A66C2?style=flat)](https://www.linkedin.com/in/ivivan/)
-[![Website](https://img.shields.io/badge/Website-ivivan.com-47CCCC?style=flat)](https://www.ivivan.com)
 [![CGTDesk](https://img.shields.io/badge/Building-CGTDesk-00C2A8?style=flat)](https://www.cgtdesk.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Ivan-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EPj8lf8AAAAJ&hl=en)
 [![Twitter](https://img.shields.io/badge/Twitter-@ivivan-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ivivan)
