@@ -8,7 +8,7 @@
 
 👨‍🔬 PhD @ QUT · Degree @ BUAA<br>
 🛡️ Data scientist working on machine learning and fraud detection<br>
-🚀 Founder & Developer of [CGTDesk](https://www.cgtdesk.com) — currently in development<br>
+🚀 Founder & Developer of [CGTDesk](https://www.cgtdesk.com) <br>
 🐈🐕 Staff to one cat and one delightfully clueless dog<br>
 🌃 Usually debugging something after midnight<br>
 💹 Into financial markets, share trading, and options<br>
