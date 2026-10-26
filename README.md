@@ -14,12 +14,12 @@
 💹 Into financial markets, share trading, and options<br>
 🤬 Still prefers bad data to job interviews<br>
 
-#### 🚀 Building CGTDesk
+#### 🚀 CGTDesk
 
 A web-based service that helps investors organise share-trading records,
 calculate capital gains and losses, and prepare for tax time.
 
-Currently in development, with a focus on:
+with a focus on:
 - Cleaning and standardising broker transaction records
 - Calculating annual capital gains and losses
 - Making calculations clear and traceable
